@@ -1,0 +1,6 @@
+name: DrunkMinecraft
+version: '${project.version}'
+main: dev.arcticgaming.drunkminecraft.DrunkMinecraft
+api-version: 1.19
+authors: [ ArcticDev_ ]
+description: Something is wrong...
